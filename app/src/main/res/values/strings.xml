@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AWTY</string>
+    <string name="app">Send Notifications!</string>
+    <string name="enterN">Enter Number:</string>
+    <string name="enterT">Enter Message:</string>
+    <string name="dur">Notification Interval in minutes:</string>
+    <string name="sub">Start</string>
+    <string name="can">Stop</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
